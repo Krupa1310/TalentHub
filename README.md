@@ -8,16 +8,16 @@ The platform provides a centralized system for student registration, company job
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Technology Stack](#technology-stack)
-4. [Project Structure](#project-structure)
-5. [Installation and Setup](#installation-and-setup)
-6. [Running the Application](#running-the-application)
-7. [API Documentation](#api-documentation)
-8. [Database](#database)
-9. [Future Enhancements](#future-enhancements)
-10. [Conclusion](#conclusion)
+1. [Project Overview](#1-project-overview)
+2. [Features](#2-features)
+3. [Technology Stack](#3-technology-stack)
+4. [Project Structure](#4-project-structure)
+5. [Installation and Setup](#5-installation-and-setup)
+6. [Running the Application](#6-running-the-application)
+7. [API Documentation](#7-api-documentation)
+8. [Database](#8-database)
+9. [Future Enhancements](#9-future-enhancements)
+10. [Conclusion](#10-conclusion)
 
 ---
 
