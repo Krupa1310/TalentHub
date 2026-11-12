@@ -201,5 +201,3 @@ The project demonstrates how modern web technologies such as React.js, FastAPI, 
 *TalentHub – Connecting Students, Companies, and Opportunities.*
 
 ---
-
-*TalentHub – Connecting Students, Companies, and Opportunities.*
